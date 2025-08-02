@@ -22,7 +22,8 @@ Supports clear goals, traceable steps, and consistent agent workflows.
 
 ### Agentic Engineering  
 Designing modular agents with planning, reflection, and tool use.  
-Delivers MVPs rapidly with FastAPI, Supabase, and React/Next.js.
+Delivers MVPs rapidly with FastAPI, Supabase, and React
+Direct of the Agentics Foundation
 
 ### Course Creation & Instructing  
 Graduate-level courses and workshops, including *Pair Programming with AI*  
@@ -35,6 +36,39 @@ Focus on roadmaps, audits, and rapid MVP delivery.
 ### AGI Research  
 Exploring neuro-symbolic methods, reflective loops, dynamic memory graphs,  
 and frameworks for emergent intelligence.
+
+---
+
+Here’s a tightened, polished version of that section for your README — keeping it clear and professional, while highlighting your repos directly:
+
+## Current SOTA
+
+Perfect — here’s the updated section with clear one-liners under each repo so visitors know exactly why they matter:
+
+## Current SOTA
+
+### 1. Install Claude Code Globally
+```bash
+# Recommended: Codespaces (avoid local unless with guardrails)
+npm install -g @anthropic-ai/claude-code
+claude --dangerously-skip-permissions
+````
+
+### 2. Supporting Tools
+
+* [**claude-flow**](https://www.npmjs.com/package/claude-flow)
+  Initialize with `npx claude-flow@alpha init --force` (by RuvNet).
+  *Scaffold repeatable Claude Code workflows with built-in agent orchestration.*
+
+* [**swarm-setup**](https://github.com/bar181/swarm-setup)
+  Custom agent swarms and workflows for advanced coordination.
+  *Demonstrates multi-agent orchestration with modular, reusable task flows.*
+
+### 3. Simple Comparison Test
+
+* [**indiana-meetup**](https://github.com/bar181/indiana-meetup)
+  Example repo showing **SOTA vs OpenAI** approaches for Agentic Foundation startups.
+  *Compares GPT‑4o and Claude Opus on a reproducible single‑file webpage challenge.*
 
 ---
 
