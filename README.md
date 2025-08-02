@@ -1,44 +1,41 @@
 ## Hi there 👋
 
-# Bradley Ross (Brad)
-AI architect • Agentic engineering • AISP • Instructor • Consultant
+# Bradley Ross (Brad)  
+AI Architect • Agentic Engineering • AISP • Instructor • Consultant  
 
-Builds agentic systems, teaches practical AI, and researches AGI with symbolic methods.
+I build agentic systems, teach practical AI, and research AGI with symbolic methods.  
+Currently a **Master’s student in Digital Media Design at Harvard Extension School**,  
+and a **Teaching Fellow and Course Assistant for CS50 at Harvard University**.  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bar181/bar181/main/brad_pixar.webp" 
+       alt="Bradley Ross" width="400">
+</p>
 
 ---
 
 ## Focus
 
-### AISP — AI Symbolic Protocol
-Structured language for reasoning, memory graphs, and multi-agent coordination. Enables clear goals, traceable steps, and consistent tool use across agents.
+### AISP — AI Symbolic Protocol  
+Structured language for reasoning, memory graphs, and multi-agent coordination.  
+Supports clear goals, traceable steps, and consistent agent workflows.
 
-### Agentic engineering
-Modular agents with planning, reflection, tool use, and eval loops. Ships MVPs fast with FastAPI + Supabase + React/Next.js.
+### Agentic Engineering  
+Designing modular agents with planning, reflection, and tool use.  
+Delivers MVPs rapidly with FastAPI, Supabase, and React/Next.js.
 
-### Course creation & instructing
-Graduate-level courses and workshops: *Pair Programming with AI*, *AI for Business*. CS50 Teaching Fellow.
+### Course Creation & Instructing  
+Graduate-level courses and workshops, including *Pair Programming with AI*  
+and *AI for Business*. Harvard CS50 Teaching Fellow.
 
-### Consulting
-Fractional AI architect for startups and growth teams. Roadmaps, audits, rapid MVP delivery, and team enablement.
+### Consulting  
+Fractional AI architect for startups and growth teams.  
+Focus on roadmaps, audits, and rapid MVP delivery.
 
-### AGI research
-Neuro-symbolic methods, reflective loops, dynamic memory graphs, and evaluation frameworks for emergent capabilities.
+### AGI Research  
+Exploring neuro-symbolic methods, reflective loops, dynamic memory graphs,  
+and frameworks for emergent intelligence.
 
 ---
 
-**Connect:** [LinkedIn →](https://www.linkedin.com/in/bradaross/)
-
-<!--
-**bar181/bar181** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Connect:** [LinkedIn → linkedin.com/in/bradaross/](https://www.linkedin.com/in/bradaross/)
