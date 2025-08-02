@@ -39,12 +39,6 @@ and frameworks for emergent intelligence.
 
 ---
 
-Here’s a tightened, polished version of that section for your README — keeping it clear and professional, while highlighting your repos directly:
-
-## Current SOTA
-
-Perfect — here’s the updated section with clear one-liners under each repo so visitors know exactly why they matter:
-
 ## Current SOTA
 
 ### 1. Install Claude Code Globally
