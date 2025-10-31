@@ -33,9 +33,12 @@ and *AI for Business*. Harvard CS50 Teaching Fellow.
 Fractional AI architect for startups and growth teams.  
 Focus on roadmaps, audits, and rapid MVP delivery.
 
-### AGI Research  
-Exploring neuro-symbolic methods, reflective loops, dynamic memory graphs,  
-and frameworks for emergent intelligence.
+### Harvard Capstone - AI First Documentation 
+Leveraging neuro-symbolic methods, reflective loops, dynamic memory graphs,  
+and frameworks for agentic processes to create comprehensive documentation 
+with <5% ambiguity and <2% functional loss (compared to tested human written 
+documentation that includes 4--65% ambiguity.  Goal is to quantify ability to 
+use agentic processes and neural symbolic languages for SOTA documentation workflows.
 
 ---
 
@@ -50,7 +53,7 @@ claude --dangerously-skip-permissions
 
 ### 2. Supporting Tools
 
-* [**AI Toolkit **](https://github.com/bar181/agentic-lab-ai
+* [**AI Toolkit **](https://github.com/bar181/agentic-lab-ai)
   Example of course work deliverables for students for Practical AI 
 
 * [**swarm-setup**](https://github.com/bar181/swarm-setup)
