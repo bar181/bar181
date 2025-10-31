@@ -50,19 +50,13 @@ claude --dangerously-skip-permissions
 
 ### 2. Supporting Tools
 
-* [**claude-flow**](https://www.npmjs.com/package/claude-flow)
-  Initialize with `npx claude-flow@alpha init --force` (by RuvNet).
-  *Scaffold repeatable Claude Code workflows with built-in agent orchestration.*
+* [**AI Toolkit **](https://github.com/bar181/agentic-lab-ai
+  Example of course work deliverables for students for Practical AI 
 
 * [**swarm-setup**](https://github.com/bar181/swarm-setup)
   Custom agent swarms and workflows for advanced coordination.
   *Demonstrates multi-agent orchestration with modular, reusable task flows.*
 
-### 3. Simple Comparison Test
-
-* [**indiana-meetup**](https://github.com/bar181/indiana-meetup)
-  Example repo showing **SOTA vs OpenAI** approaches for Agentic Foundation startups.
-  *Compares GPT‑4o and Claude Opus on a reproducible single‑file webpage challenge.*
 
 ---
 
