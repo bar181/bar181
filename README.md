@@ -54,14 +54,14 @@ The module architecture automates lesson creation with Bloom-aligned progression
 
 ---
 
-# 🎓 Working With Students
+# 🎓 Working With Students 
 
-## Oscar Winner Predictions — Agentic Learning Labs
+## Oscar Winner Predictions — Agentic Learning Labs (using Claude and Lovable)
 
 We built this during office hours — an idea that became a full public website using research, algorithms, and API workflows. A real example of turning curiosity into a production artifact.  
 **Public repo:** [https://github.com/bar181/oscar-win-whisperer](https://github.com/bar181/oscar-win-whisperer) 
 
-## Agentic Lab AI Toolkit
+## Agentic Lab AI Toolkit — Agentic Learning Labs (using Claude and Lovable)
 
 Co-built with students to showcase the exact prompts and workflows used in class for rapid webapp creation.   
 **Public repo:** [https://github.com/bar181/agentic-lab-ai](https://github.com/bar181/agentic-lab-ai) 
