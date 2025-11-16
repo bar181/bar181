@@ -10,7 +10,11 @@ I design advanced agentic systems, build symbolic reasoning frameworks, and teac
        alt="Bradley Ross" width="400">
 </p>
 
+### Check out this repository as an example of what students create during Practical AI workshops: [https://github.com/bar181/ai-toolkit](https://github.com/bar181/ai-toolkit)  
+
+
 ---
+
 
 # 🔬 Education & Research — Practical AI
 
