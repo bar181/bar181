@@ -13,8 +13,32 @@ I design advanced agentic systems, build symbolic reasoning frameworks, and teac
 ### Check out this repository as an example of what students create during Practical AI workshops: [https://github.com/bar181/ai-toolkit](https://github.com/bar181/ai-toolkit)  
 
 
+
 ---
 
+
+
+# LATEST FEATURE 
+
+## Savant AI agents and orchestration
+
+I developed agents that have personality / cognitive traits, deep domain expertise, and self-reflection capabilities.  The testing results are strong - and the savant AI team created a research paper.  See repo and website below: demonstrate that Savant agents achieve a 56% aggregate quality improvement over standard LLM interactions (87.8 vs 56.2/100)
+
+Repo: [https://github.com/bar181/savant-ai-results](https://github.com/bar181/savant-ai-results)  
+Website: [Savant AI Testing Results Website](https://bradley-academy-future-of-agentic-ai-1018361401762.us-west1.run.app/)  
+Draft research paper the savants created: [Research Paper](https://gist.github.com/bar181/3f83f792e4a0343a016f369ad5ff77a4)  
+
+---
+
+
+# 🧠 Agentic Engineering
+
+I develop modular, adaptive agents powered by symbolic reasoning, AISP, databases, and deterministic templates. These systems reduce ambiguity, accelerate build speed, and support explainable decision loops for production scenarios. Repos include both public tools and advanced private agents for invite-only collaborators.
+
+Currently seeking sponsorship for advanced research.  Get early access to leading agentic systems and AI first documentation using a symbolic language designed specifically for AI to AI communication and orchestration.
+
+
+---
 
 # 🔬 Education & Research — Practical AI
 
@@ -22,11 +46,9 @@ I specialize in turning complex machine intelligence concepts into practical too
 
 Students create **pitch decks, data stories, visualizations, and no-code webapps**, using structured reasoning and agentic design to upskill rapidly. Clients include **Agentic Learning Labs, Bradley.Academy, and private universities**, where I deliver modern AI literacy and hands-on product development experiences.
 
----
+Here is an example of what we create together:  [https://github.com/bar181/ai-toolkit](https://github.com/bar181/ai-toolkit) 
 
-# 🧠 Agentic Engineering
 
-I develop modular, adaptive agents powered by symbolic reasoning, AISP, databases, and deterministic templates. These systems reduce ambiguity, accelerate build speed, and support explainable decision loops for production scenarios. Repos include both public tools and advanced private agents for invite-only collaborators.
 
 ---
 
